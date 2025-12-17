@@ -2,7 +2,7 @@
 A simple, interactive counter application built with React and Vite. This project demonstrates the fundamentals of React state management and component composition.
 
 🚀 Features
-Increment/Decrement: Effortlessly increase or decrease the count value.
+Increment/Decrement:  increase or decrease the count value.
 
 Reset: Instantly reset the counter back to zero.
 
